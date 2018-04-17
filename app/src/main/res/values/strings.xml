@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CursoUdemy</string>
+    <string name="ESP_000001">Llenar listView</string>
+    <string name="ESP_000002">Salir de la aplicación</string>
+    <string name="ESP_000003">Vamos a hacer fotos</string>
+    <string name="ESP_000004">Tomar foto</string>
+</resources>
